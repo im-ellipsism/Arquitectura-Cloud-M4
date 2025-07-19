@@ -13,6 +13,7 @@
 Este repositorio contiene el desarrollo completo del proyecto de arquitectura cloud correspondiente al Módulo 4.  
 Se trata de una infraestructura simulada que cumple con los requerimientos de una empresa ficticia, donde se aplican prácticas reales de AWS y se documenta todo de manera profesional.
 
+
 ---
 
 ## 🎯 Objetivos
@@ -26,7 +27,8 @@ Se trata de una infraestructura simulada que cumple con los requerimientos de un
 
 ## 📂 Estructura del Repositorio
 
-```plaintext
+
+```
 Arquitectura-Cloud-M4/
 │
 ├── 📁 documentacion/          # Informes técnicos, narrativos y académicos
@@ -43,3 +45,63 @@ Arquitectura-Cloud-M4/
 │
 ├── README.md                 # Este archivo
 └── LICENSE                   # Licencia del proyecto (opcional)
+```
+
+
+## 🚧 Estado del Proyecto
+
+- ✅ Informe terminado (versión narrativa y académica)
+- ✅ Diagrama de arquitectura general
+- ⏳ Implementación en curso en entorno de pruebas AWS (Free Tier)
+- 🚫 No requiere presentación ni defensa
+
+---
+
+## 📦 Entregables
+
+- [x] Informe técnico completo
+- [x] Diagramas en formato PNG y draw.io
+- [x] Resultados de pruebas
+- [ ] Documentación de scripts de infraestructura
+
+---
+
+
+## 🛠️ Herramientas Utilizadas
+
+- AWS (VPC, EC2, S3, IAM, CloudWatch, etc.)
+- Diagrams.net y Canva para los diagramas
+- Markdown para documentar
+- Notion para organización y planificación (¡link pronto!)
+---
+
+
+## 🧪 Estado del Proyecto
+
+✅ En desarrollo activo.
+📌 Informe en proceso.
+🐾 Acompañado por Potita, la gata arquitecta cloud.
+---
+
+## ✍️ Autora
+
+Sandra González Navarrete  
+🔗 [github.com/im-ellipsism](https://github.com/im-ellipsism)
+
+---
+
+💡 Notas personales
+
+Este proyecto es parte del camino que estoy recorriendo para convertirme en arquitecta cloud.
+He trabajado cada parte con esfuerzo, ganas de aprender, y mucho corazón.
+Cualquier sugerencia, feedback o café virtual es bienvenido.
+
+😺 Créditos Especiales
+
+A Potita, por estar en mi teclado.
+Y a Nezuko, por acompañarme paso a paso como una compañera digital infernalmente útil 💻🔥
+
+📜 Licencia
+
+MIT o sin licencia todavía.
+Puedes usar este proyecto como inspiración, pero no copies sin dejar galletita 🍪.
