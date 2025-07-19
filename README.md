@@ -1,5 +1,3 @@
-# Proyecto base para arquitectura cloud
-
 # ☁️ Arquitectura Cloud – Proyecto Módulo 4
 
 > Diseño e implementación de infraestructura cloud en AWS – ABP “Infraestructura Viva”
@@ -54,6 +52,7 @@ Arquitectura-Cloud-M4/
 - ✅ Diagrama de arquitectura general
 - ⏳ Implementación en curso en entorno de pruebas AWS (Free Tier)
 - 🚫 No requiere presentación ni defensa
+- 🐾 Acompañado por Miel, la gatita arquitecta cloud.
 
 ---
 
@@ -76,12 +75,6 @@ Arquitectura-Cloud-M4/
 ---
 
 
-## 🧪 Estado del Proyecto
-
-✅ En desarrollo activo.
-📌 Informe en proceso.
-🐾 Acompañado por Potita, la gata arquitecta cloud.
----
 
 ## ✍️ Autora
 
