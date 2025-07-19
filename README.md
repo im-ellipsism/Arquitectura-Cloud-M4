@@ -27,22 +27,22 @@ Se trata de una infraestructura simulada que cumple con los requerimientos de un
 
 
 ```
-Arquitectura-Cloud-M4/
-│
-├── 📁 documentacion/          # Informes técnicos, narrativos y académicos
-│   ├── informe-narrativo.md
-│   └── informe-academico.md
-│
-├── 📁 imagenes/               # Diagramas de arquitectura, capturas de consola, esquemas
-│   ├── arquitectura-general.png
-│   └── plan-migracion.png
-│
-├── 📁 pruebas/                # Resultados de validaciones, logs, scripts
-│   ├── resultados.txt
-│   └── pruebas-vpc.md
-│
-├── README.md                 # Este archivo
-└── LICENSE                   # Licencia del proyecto (opcional)
+  Arquitectura-Cloud-M4/
+  │
+  ├── 📁 documentacion/          # Informes técnicos, narrativos y académicos
+  │   ├── informe-narrativo.md
+  │   └── informe-academico.md
+  │
+  ├── 📁 imagenes/               # Diagramas de arquitectura, capturas de consola, esquemas
+  │   ├── arquitectura-general.png
+  │   └── plan-migracion.png
+  │
+  ├── 📁 pruebas/                # Resultados de validaciones, logs, scripts
+  │   ├── resultados.txt
+  │   └── pruebas-vpc.md
+  │
+  ├── README.md                 # Este archivo
+  └── LICENSE                   # Licencia del proyecto (opcional)
 ```
 
 
