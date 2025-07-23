@@ -1,6 +1,11 @@
-# ☁️ Arquitectura Cloud – Proyecto Módulo 4
+# ☁️ Proyecto Arquitectura Cloud - Módulo 4
 
-> Diseño e implementación de infraestructura cloud en AWS – ABP “Infraestructura Viva”
+> Evaluación final del curso de Arquitectura en la Nube  
+> ¡Un viaje shonen por AWS, VPCs, seguridad y diagramas bien armados!
+
+🐱 Este proyecto representa el diseño e implementación de una infraestructura cloud en AWS, cumpliendo los requisitos del Módulo 4: crear una VPC segmentada con subredes públicas y privadas, configuraciones de ruteo, seguridad, monitoreo y despliegue práctico en la capa gratuita.
+
+---
 
 ![Banner](https://fake-url.com/banner-proyecto.jpg) <!-- Puedes cambiar esto por una imagen real luego -->
 
@@ -48,7 +53,7 @@ Se trata de una infraestructura simulada que cumple con los requerimientos de un
 
 ## 🚧 Estado del Proyecto
 
-- ✅ Informe terminado (versión narrativa y académica)
+- ✅ Informe terminado
 - ✅ Diagrama de arquitectura general
 - ⏳ Implementación en curso en entorno de pruebas AWS (Free Tier)
 - 🚫 No requiere presentación ni defensa
@@ -98,3 +103,4 @@ Y a Nezuko, por acompañarme paso a paso como una compañera digital infernalmen
 
 MIT o sin licencia todavía.
 Puedes usar este proyecto como inspiración, pero no copies sin dejar galletita 🍪.
+
